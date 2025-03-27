@@ -1,4 +1,4 @@
-# 🕹️ Jelly Run🪱
+# 🕹️ Jelly Run 🐻
 
 ![MFC](https://img.shields.io/badge/MFC-GameApp-indigo)
 ![C++](https://img.shields.io/badge/C%2B%2B-GameLogic-blueviolet)
@@ -73,6 +73,21 @@
 ├── Resource.h / .rc            # 리소스 정의
 └── README.md                   # 설명 문서
 ```
+
+---
+
+## 🎮 게임 플레이 방법
+![image](https://github.com/user-attachments/assets/9b7e381b-dc33-47fb-823b-38db02557ca1)
+
+1. 프로그램 실행 후 Jelly Run 인트로 화면 출력  
+2. Start 버튼 클릭 → 사용자 이름 입력  
+3. 게임 화면으로 전환되고 하리보 캐릭터 등장  
+4. 마우스를 클릭할 때마다 캐릭터가 점프
+5. 빨간 젤리를 먹으면 +1점, 무지개 젤리를 먹으면 +10점
+6. 각 레벨별로 생명 3개가 주어짐
+7. 하리보 곰돌이가 목적지에 도착하면 다음 레벨
+8. 레벨 3까지 통과하면 GAME CLEAR
+9. 
 
 ---
 

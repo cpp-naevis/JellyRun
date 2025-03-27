@@ -68,8 +68,8 @@
 
 | 이름     | 역할   | 담당 업무                                | GitHub |
 |----------|--------|-------------------------------------------|--------|
-| **배나혜** | 개발자 | 인트로 화면 구성, 캐릭터 점프 기능 구현, bgm, UI 구성     | [![GitHub](https://img.shields.io/badge/GitHub-KYEONGJUN--LEE-black?logo=github)](https://github.com/KYEONGJUN-LEE) |
-| **이은비** | 개발자 | 게임 로직 구현, 점수 시스템, 레벨 시스템, UI 구성        | [![GitHub](https://img.shields.io/badge/GitHub-KYEONGJUN--LEE-black?logo=github)](https://github.com/KYEONGJUN-LEE) |
+| **배나혜** | 개발자 | 인트로 화면 구성, 캐릭터 점프 기능 구현, bgm, UI 구성     | [![GitHub](https://img.shields.io/badge/GitHub-NAHYE-black?logo=github)](https://github.com/nahyebae)|
+| **이은비** | 개발자 | 게임 로직 구현, 점수 시스템, 레벨 시스템, UI 구성        | [![GitHub](https://img.shields.io/badge/GitHub-EUNBEE-black?logo=github)](https://github.com/KYEONGJUN-LEE) |
 
 ---
 

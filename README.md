@@ -54,10 +54,22 @@
 
 ```
 📦 JellyRun
-├── IntroDialog.cpp / .h        # 인트로 화면
-├── GameView.cpp / .h           # 메인 게임 화면
-├── JellyRun.cpp / .h           # MFC 메인 엔트리
+├── StartDlg.cpp / .h        # 인트로 화면
+├── NameInputDlg.cpp / .h    # 닉네임 입력 화면
+├── JellyRunDlg.cpp / .h           # 메인 게임 화면
+├── LevelUpDlg.cpp / .h           # 레벨업 화면
+├── Level2Dlg.cpp / .h           # 레벨2 게임 화면
+├── Level3Dlg.cpp / .h           # 레벨3 게임 화면
+├── GameOverDlg.cpp / .h           # 게임 오버 화면
+├── GameClearDlg.cpp / .h           # 게임 클리어 화면
+├── Background.cpp / .h          # 배경 화면 및 배경 스크롤 구현
 ├── Character.cpp / .h          # 캐릭터 점프 및 위치 처리
+├── Obstacle.cpp / .h          # 장애물
+├── ObstacleManager.cpp / .h          # 장애물 관리
+├── Score.cpp / .h          # 점수 요소
+├── ScoreManager.cpp / .h          # 점수 요소 관리
+├── JellyRun.cpp / .h          # MFC 메인 엔트리
+├── JellyRunView.cpp / .h          # MFC 메인 엔트리 화면
 ├── Resource.h / .rc            # 리소스 정의
 └── README.md                   # 설명 문서
 ```
@@ -68,8 +80,8 @@
 
 | 이름     | 역할   | 담당 업무                                | GitHub |
 |----------|--------|-------------------------------------------|--------|
-| **배나혜** | 개발자 | 인트로 화면 구성, 캐릭터 점프 기능 구현, bgm, UI 구성     | [![GitHub](https://img.shields.io/badge/GitHub-NAHYE-black?logo=github)](https://github.com/nahyebae)|
-| **이은비** | 개발자 | 게임 로직 구현, 점수 시스템, 레벨 시스템, UI 구성        | [![GitHub](https://img.shields.io/badge/GitHub-EUNBEE-black?logo=github)](https://github.com/KYEONGJUN-LEE) |
+| **배나혜** | 개발자 | 인트로 화면 구성, 닉네임 입력 화면, 캐릭터 점프 기능 구현, 생명 시스템, bgm, UI 구성     | [![GitHub](https://img.shields.io/badge/GitHub-NAHYE-black?logo=github)](https://github.com/nahyebae)|
+| **이은비** | 개발자 | 게임 로직 구현, 점수 시스템, 레벨 시스템, 게임 오버 화면, 게임 클리어 화면, UI 구성        | [![GitHub](https://img.shields.io/badge/GitHub-EUNBEE-black?logo=github)]((https://github.com/eummbee)) |
 
 ---
 
@@ -80,10 +92,11 @@
 - MFC를 활용한 이벤트 기반 UI 구성 방식 이해
 - 마우스 이벤트 및 타이머 처리 방식 학습
 - 게임 로직과 윈도우 기반 UI의 결합 구현 경험
+- 협업을 위한 분할 구현과 프로젝트 병합 경험
 
 ---
 
 ## 🔮 향후 개선 계획
 - 효과음 추가
-- 점수 시스템 및 리더보드 구현
-- 장애물 다양화 및 스테이지 확장
+- 점수 랭킹 시스템 구현
+- 장애물 다양화 환

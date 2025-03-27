@@ -74,7 +74,7 @@
 ---
 
 ## 📑 플로우 차트
-![image](https://github.com/user-attachments/assets/ac965882-93c8-4419-aa45-def10ecdd12f)
+![image](https://github.com/user-attachments/assets/1f9eb873-930f-4819-ade4-458569e0c671)
 
 ## 💡 배운 점
 - MFC를 활용한 이벤트 기반 UI 구성 방식 이해
